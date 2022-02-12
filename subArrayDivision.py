@@ -33,6 +33,8 @@ def birthday(s, d, m):
             bar=[]
             if(m==1):
                 i+=1
+            else:
+                i-=(m-2)
         else:
             i+=1        
     return t
