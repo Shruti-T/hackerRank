@@ -19,6 +19,8 @@ def staircase(n):
         line=string+hashS
         print(line)
 
+
+
 if __name__ == '__main__':
     n = int(input().strip())
 
