@@ -13,8 +13,7 @@
 # int ar[n]: the colors of each sock
 
 # ------------------SOLUTION---------------------------------
-
-#
+# 
 # Complete the 'sockMerchant' function below.
 #
 # The function is expected to return an INTEGER.
