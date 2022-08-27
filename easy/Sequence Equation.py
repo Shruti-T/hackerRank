@@ -2,22 +2,7 @@
 # For each x where 1 <= x <=n, that is x increments from 1 to n, find any integer y such that p(p(y)) = x and 
 # keep a history of the values of y in a return array.
 
-# ---------------------------SOLUTION-----------------
-
-#!/bin/python3
-
-import math
-import os
-import random
-import re
-import sys
-
-#
-# Complete the 'permutationEquation' function below.
-#
-# The function is expected to return an INTEGER_ARRAY.
-# The function accepts INTEGER_ARRAY p as parameter.
-#
+# ------------------------------------------SOLUTION-----------------------------
 
 def permutationEquation(p):
     # Write your code here
