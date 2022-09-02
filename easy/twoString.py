@@ -1,14 +1,7 @@
 # Given two strings, determine if they share a common substring. A substring may be as small as one character.
 
 # ---------------------SOLUTION---------------------
-#!/bin/python3
-
-import math
 import os
-import random
-import re
-import sys
-
 #
 # Complete the 'twoStrings' function below.
 #
