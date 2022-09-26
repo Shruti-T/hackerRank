@@ -13,7 +13,7 @@
 # int ar[n]: the colors of each sock
 
 # ------------------SOLUTION---------------------------------
-
+import os
 def sockMerchant(n, ar):
     # Write your code here
     # print(ar)

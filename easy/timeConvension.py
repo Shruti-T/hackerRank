@@ -1,12 +1,7 @@
 # Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
 
 # ---------------SOLUTION--------------------
-
-import math
 import os
-import random
-import re
-import sys
 def timeConversion(s):
     # Write your code here
     first=s[0:2]

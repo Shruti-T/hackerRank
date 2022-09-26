@@ -1,15 +1,7 @@
 # HackerLand Enterprise is adopting a new viral advertising strategy. When they launch a new product, they advertise it to exactly  5 people on social media.
 
 # --------------------------------------------SOLUTION---------------------------------------
-
-#!/bin/python3
-
-import math
 import os
-import random
-import re
-import sys
-
 #
 # Complete the 'viralAdvertising' function below.
 #
